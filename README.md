@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Capricorn007 or just Andrew
+- 👀 I’m interested in getting good at programming... and grammar :D
+- 🌱 I’m currently learning Haskell (and C, but no bigger problems here... yet)
+- 💞️ I’m looking to collaborate on smaller codes in C for now(I may be able to help you, if you are just getting into some C). I'm definitely a beginner
+- 📫 How to reach me - Well, the easiest way is definitely via discord - Capricorn007#0004
